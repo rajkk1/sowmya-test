@@ -9,7 +9,7 @@ These first few steps are all done through the _anaconda prompt_ terminal
 
 For this next step, use whichever text editor you like (e.g. notepad++)
 
-4. Open README.md (i.e. this file) and edit this line such that the following sentence is true: the complete set of Clifford gates consists of just the H and CNOT gates.  
+4. Open README.md (i.e. this file) and edit this line such that the following sentence is true: the complete set of Clifford gates consists of just the H, S and  CNOT gates.  
 
 The next few steps are once again done through anaconda prompt
 
