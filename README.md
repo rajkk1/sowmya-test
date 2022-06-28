@@ -16,7 +16,7 @@ The next few steps are once again done through anaconda prompt
 5. Add the README.md file to your local git using the `git add` command and commit your changes using the `git commit -m` command
 6. Push your changes _upstream_ to the GitHub repo using `git push`. This last step will put everything on the github repo
 
-So we're almost done, except now if you come back to the Github repo, you'll notice that the README.md file hasn't changed! That's because your changes are on your branch and not the main branch. So the final step is to make a _pull request_ i.e. request that your changes be merged onto the main branch.
+So we're almost done, except now if you come back to the Github repo, you'll notice that the README.md file still hasn't changed! That's because your changes are on your branch and not the main branch. So the final step is to make a _pull request_ i.e. request that your changes be merged onto the main branch.
 
 7. Go back to https://github.com/rajkk1/sowmya-test and make a _pull request_ on Github to merge your branch with the main branch
 
